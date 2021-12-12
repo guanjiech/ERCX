@@ -1,5 +1,5 @@
 # ERCX
-This standard adds a new right of Non-Fungible Token that the right to use. Through this standard, you can achieve :
+This standard grants Non-Fungible Tokens with usage rights. Through this standard, you can achieve :
 
 - Separation of the right to use and ownership of Non-Fungible Token
 - Non-secured lease Non-Fungible Token

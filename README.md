@@ -1,7 +1,7 @@
 # ERCX
 This standard grants Non-Fungible Tokens with usage rights. Through this standard, you can achieve :
 
-- Separation of the right to use and ownership of Non-Fungible Token
+- Separation of the usage right and ownership of Non-Fungible Token
 - Non-secured lease Non-Fungible Token
 - You can continue to use it after you mortgage the Non-Fungible Token
 - Metaverse sharing economy
